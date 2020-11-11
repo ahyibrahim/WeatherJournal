@@ -44,13 +44,14 @@ body{
 
 }
 .title{
-
+    padding-bottom: 10px;
 }
 
 /*  Basic Styling To Override Default For Basic HTML Elements */
 label{
     display:block;
     font-size: 27px;
+    border-bottom: blue;
 }
 
 input{
